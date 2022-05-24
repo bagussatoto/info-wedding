@@ -1,12 +1,12 @@
-<h3 align="center">Diundang - Theme Official</h3>
-<p align="center">Official Theme By Diundang - Digital Wedding Invitation</p>
+<h1 align="center">Diundang - Theme Official</h1>
+<p align="center">Official Theme By Bagus Budi Satoto</p>
 <img src="./src/assets/banner.png" />
 
 ![GitHub](https://img.shields.io/github/license/or-abdillh/wedding-invitation?style=for-the-badge)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/or-abdillh/wedding-invitation/theme-03?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/or-abdillh/wedding-invitation?style=for-the-badge)
 
-### Languages and Tools
+
+## Languages and Tools
 - Vue JS 3
 - Tailwind
 - Animate CSS
@@ -24,7 +24,7 @@
 - Termux
 - Neovim
 
-### Features
+## Features
 - [x] Countdown
 - [x] Backsound
 - [x] Timelines event
@@ -39,15 +39,24 @@
 - [x] Invited guests
 - [x] Couple profiles with picture
 
-### Demo 
-- [Diundang - Official Theme](http://diundang-demo-3.vercel.app)
-
-### Thanks 
-- Support me with a cup of coffee and other snacks [here ..](https://saweria.co/orabdillh)
-- Don't forget to give me star in this repository 🙏🏻🙏🏻
-- See my other projects on instagram [@or.abdillh](http://www.instagram.com/or.abdillh)
-
-[Oka R Abdillah ](http://github.com/or-abdillh)
 <br>
-Last edited on : 15/05/2022
+
+## Installation
+
+ Git Clone 
+  ``` bash 
+  git clone https://github.com/bagussatoto/info-wedding.git
+  ```
+<br> 
+
+## Demo 
+- [x] [Diundang Mas Bagus](  )
+
+## Thanks 
+- Support me with a cup of coffee and other snacks [here ..](https://saweria.co/bagussatoto1)
+- Don't forget to give me star in this repository 🙏🏻🙏🏻
+
+<br>
+
+>## 🧑🏽‍💻  [bagussatoto ](http://github.com/bagussatoto)
 
