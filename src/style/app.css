@@ -1,0 +1,38 @@
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600&display=swap');
+
+p,
+a,
+i,
+h1,
+h2,
+strong,
+small,
+button {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.satisfy-font {
+	font-family: 'Satisfy', cursive;
+}
+
+.kalam-font {
+	font-family: 'Kalam', cursive;
+}
+
+.tangerine-font {
+	font-family: 'Tangerine', cursive;
+}
+
+.open-sans-font {
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* Global class */
+.container-section {
+	@apply w-full mx-auto md:w-8/12 lg:w-6/12;
+}
