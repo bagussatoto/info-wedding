@@ -50,7 +50,7 @@
 <br> 
 
 ## Demo 
-- [x] [Diundang Mas Bagus](  )
+- [x] [Diundang Mas Bagus](https://info-wedding.vercel.app/)
 
 ## Thanks 
 - Support me with a cup of coffee and other snacks [here ..](https://saweria.co/bagussatoto1)
