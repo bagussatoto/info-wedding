@@ -11,7 +11,7 @@
     "animate.css": "^4.1.1",
     "aos": "^2.3.4",
     "autoprefixer": "^10.4.7",
-    "axios": "^0.27.2",
+    "axios": "^1.2.0",
     "duck-timer": "^1.0.3",
     "pinia": "^2.0.13",
     "postcss": "^8.4.13",
